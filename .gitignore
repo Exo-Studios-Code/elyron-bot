@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+logs/
+data/*.db
+data/team_logos/
+backups/
+venv/
